@@ -1,0 +1,8 @@
+E:\Learn\OpenSource\LOG\MyLogViewer\MyLogViewer\bin\Debug\MyLogViewer.exe
+E:\Learn\OpenSource\LOG\MyLogViewer\MyLogViewer\bin\Debug\MyLogViewer.pdb
+E:\Learn\OpenSource\LOG\MyLogViewer\MyLogViewer\obj\Debug\ResolveAssemblyReference.cache
+E:\Learn\OpenSource\LOG\MyLogViewer\MyLogViewer\obj\Debug\MyLogViewer.Form1.resources
+E:\Learn\OpenSource\LOG\MyLogViewer\MyLogViewer\obj\Debug\MyLogViewer.Properties.Resources.resources
+E:\Learn\OpenSource\LOG\MyLogViewer\MyLogViewer\obj\Debug\MyLogViewer.csproj.GenerateResource.Cache
+E:\Learn\OpenSource\LOG\MyLogViewer\MyLogViewer\obj\Debug\MyLogViewer.exe
+E:\Learn\OpenSource\LOG\MyLogViewer\MyLogViewer\obj\Debug\MyLogViewer.pdb
